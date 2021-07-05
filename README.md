@@ -1,1 +1,1 @@
-# expense-planner-react
+A react application to track events.
