@@ -1,1 +1,1 @@
-A react application to track events.
+A react application to track expenses.
